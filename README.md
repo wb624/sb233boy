@@ -42,6 +42,7 @@
 
 # 文档
 一键脚本：bash <(curl -fsSL https://github.com/wb624/sing-box/raw/main/install.sh)
+
 安装及使用：https://233boy.com/sing-box/sing-box-script/
 
 # 帮助
